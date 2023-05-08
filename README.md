@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Course Management System <br>🌱 I’m currently learning Java, C++, SQL and Python<br>⚡ Fun fact: I shifted from Mechatronics Engineering to a degree in CSE
+🔭 I’m currently working on a simple Course Management System and a Galactic e-commerce store<br>🌱 I’m currently learning Java, C++, SQL and Python<br>⚡ Fun fact: I shifted from Mechatronics Engineering to a degree in CSE
 
 
 ## 🌐 Socials:
